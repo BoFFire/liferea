@@ -2,7 +2,6 @@
 *.a
 *.gmo
 *.o
-*.Po
 *.la
 *.lo
 Makefile
@@ -29,10 +28,6 @@ net.sf.liferea.gschema.valid
 net.sf.liferea.gschema.xml
 net.sourceforge.liferea.desktop
 net.sourceforge.liferea.service
-po/.intltool-merge-cache
-po/Makefile.in.in
-po/POTFILES
-po/stamp-it
 src/dbus_wrap.c
 src/liferea
 src/liferea-add-feed
